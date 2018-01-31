@@ -1,0 +1,42 @@
+*{
+	margin: 0 auto;
+	
+}
+
+aside{
+	float:right;
+	border:2px solid red;
+	width:200px;
+	height: 500px;
+    
+	
+}
+
+
+
+li{
+	display: inline-block;
+	padding: 20px;
+	
+}
+
+.nav1{
+	border:1px solid black;
+}
+
+
+nav{
+	margin-left:325px;
+}
+
+section{
+	position: relative;
+	border:2px solid black;
+	height:500px;
+	margin-left: 25px;
+}
+
+footer{
+	font-size: 33px;
+}
+
